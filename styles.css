@@ -3,4 +3,6 @@ p {
 }
 h1 {
   color: antiquewhite;
+  font-size: 1rem;
+  text-align: center;
 }
